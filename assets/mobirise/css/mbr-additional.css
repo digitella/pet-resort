@@ -2500,6 +2500,13 @@ section.lazy-placeholder:after {
 .cid-rGtR6rcDwG .link-wrap:hover {
   transform: rotate(12deg);
 }
+.cid-rGtR6rcDwG .card-title,
+.cid-rGtR6rcDwG .card-img {
+  color: #0f7699;
+}
+.cid-rGtR6rcDwG H5 {
+  color: #49281d;
+}
 .cid-rGtR6OAlMl {
   padding-top: 60px;
   padding-bottom: 60px;
