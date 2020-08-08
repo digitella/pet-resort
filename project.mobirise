@@ -55,7 +55,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "publishChangesOnly": false,
-    "uniqCompNum": 0,
+    "uniqCompNum": 1,
     "versionPublish": "5.0.16"
   },
   "pages": {
@@ -555,6 +555,9 @@
               "&:hover": {
                 "transform": "rotate(12deg)"
               }
+            },
+            "H1": {
+              "color": "#383838"
             }
           },
           "_name": "header4",
