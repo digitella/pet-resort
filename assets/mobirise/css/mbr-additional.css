@@ -1072,6 +1072,7 @@ section.lazy-placeholder:after {
   position: absolute;
   left: 1rem;
   top: 0.5rem;
+  bottom: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
   font-size: inherit;
@@ -1422,7 +1423,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rGtR2nEWKI {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
